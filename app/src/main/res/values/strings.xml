@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MapApp</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="hello_world">Hello world!</string>
+
+
+    <string name="action_settings">Settings</string>
+    <string-array name="views_array">
+        <item>Карта</item>
+        <item>Настройки</item>
+        <item>О программе</item>
+    </string-array>
+    <string name="menu">Меню</string>
+
+    <string name="map_screen">Карта</string>
+    <string name="settings_screen">Настройки</string>
+    <string name="about_screen">О программе</string>
+
+    <string name="open_menu">Open</string>
+    <string name="close_menu">Close</string>
+
+    <string name="server_url">http://kayakta.osmonov.com/api/points/</string>
+</resources>
